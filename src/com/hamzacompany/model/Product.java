@@ -8,6 +8,7 @@ public class Product {
     }
 
     public String getName() {
+    System.out.println("first change");
         return name;
     }
 }
